@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+requests
+prophet
+matplotlib
+numpy
+python-multipart
